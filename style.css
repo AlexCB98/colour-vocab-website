@@ -1,17 +1,23 @@
 #red {
     color:red
 }
-
 #blue {
     color:blue
 }
 #orange {
     color:orange
 }
-
 #green {
     color:green
 }
 #yellow {
     color:yellow
 }
+
+.color-title {
+    text-align:left;
+    font-size: 2rem;
+    margin-top: 2rem;
+    font-weight: normal;
+}
+
